@@ -22,4 +22,4 @@ Unity version **2019.3.12f1**
 
 *What's up with the dev textures and block monsters?*
 
-We're programmers not artists, we're here to make things function quick and smoothly not look good ;)
+You'll have to excuse the programmer art, we didn't have time to secure any art assets.
